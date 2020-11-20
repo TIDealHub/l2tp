@@ -12,8 +12,9 @@ Note the generated credentials
 
 `wget https://raw.githubusercontent.com/civa/l2tp/master/vpn.sh;sh`
 
-edit vpn.sh
+edit `vpn.sh`
+`nano vpn.sh`
 
-add ipsec PSK , username and password
+add ipsec PSK , username and password - values must be inside the ''
 
-sh vpn.sh
+`sh vpn.sh`
