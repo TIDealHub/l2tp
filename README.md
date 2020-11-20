@@ -10,4 +10,10 @@ Note the generated credentials
 
 <b>Customized setup</b>
 
-wget https://raw.githubusercontent.com/civa/l2tp/master/vpn.sh;sh
+`wget https://raw.githubusercontent.com/civa/l2tp/master/vpn.sh;sh`
+
+edit vpn.sh
+
+add ipsec PSK , username and password
+
+sh vpn.sh
