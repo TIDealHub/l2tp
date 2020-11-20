@@ -7,3 +7,5 @@ Copy and run the command below
 Note the generated credentials
 
 #Happyanonymity
+
+Customized setup
