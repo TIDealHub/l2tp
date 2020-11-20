@@ -8,4 +8,6 @@ Note the generated credentials
 
 #Happyanonymity
 
-Customized setup
+<b>Customized setup</b>
+
+wget https://raw.githubusercontent.com/civa/l2tp/master/vpn.sh;sh
